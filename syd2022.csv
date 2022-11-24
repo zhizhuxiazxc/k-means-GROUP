@@ -1,0 +1,287 @@
+﻿Month,AustralianPort,ForeignPort,Country,Passengers_In,Passengers_Out,Passengers_Total,Year,Month_num
+22-Jan,Sydney,Abu Dhabi,United Arab Emirates,5525,3482,9007,2022,1
+22-Jan,Sydney,Anchorage,USA,0,0,0,2022,1
+22-Jan,Sydney,Auckland,New Zealand,3120,1078,4198,2022,1
+22-Jan,Sydney,Bahrain,Bahrain,0,0,0,2022,1
+22-Jan,Sydney,Bangkok,Thailand,5461,1433,6894,2022,1
+22-Jan,Sydney,Chicago,USA,0,0,0,2022,1
+22-Jan,Sydney,Chongqing,China,0,0,0,2022,1
+22-Jan,Sydney,Christchurch,New Zealand,0,0,0,2022,1
+22-Jan,Sydney,Cincinnati,USA,0,0,0,2022,1
+22-Jan,Sydney,Colombo,Sri Lanka,3356,2435,5791,2022,1
+22-Jan,Sydney,Dallas,USA,0,0,0,2022,1
+22-Jan,Sydney,Doha,Qatar,9567,7129,16696,2022,1
+22-Jan,Sydney,Dubai,United Arab Emirates,14258,12441,26699,2022,1
+22-Jan,Sydney,Guangzhou,China,1079,932,2011,2022,1
+22-Jan,Sydney,Haikou,China,0,0,0,2022,1
+22-Jan,Sydney,Hangzhou,China,78,389,467,2022,1
+22-Jan,Sydney,Hanoi,Vietnam,59,372,431,2022,1
+22-Jan,Sydney,Ho Chi Minh City,Vietnam,752,794,1546,2022,1
+22-Jan,Sydney,Hong Kong,Hong Kong (SAR),1858,148,2006,2022,1
+22-Jan,Sydney,Honolulu,USA,5202,4391,9593,2022,1
+22-Jan,Sydney,Jakarta,Indonesia,562,535,1097,2022,1
+22-Jan,Sydney,Johannesburg,South Africa,2514,1656,4170,2022,1
+22-Jan,Sydney,Kuala Lumpur,Malaysia,2863,1573,4436,2022,1
+22-Jan,Sydney,London,UK,5594,4002,9596,2022,1
+22-Jan,Sydney,Los Angeles,USA,13714,9852,23566,2022,1
+22-Jan,Sydney,Louisville,USA,0,0,0,2022,1
+22-Jan,Sydney,Manila,Philippines,564,539,1103,2022,1
+22-Jan,Sydney,Nadi,Fiji,19396,12064,31460,2022,1
+22-Jan,Sydney,Nagoya,Japan,0,0,0,2022,1
+22-Jan,Sydney,New Delhi,India,8263,4528,12791,2022,1
+22-Jan,Sydney,New York,USA,0,0,0,2022,1
+22-Jan,Sydney,Noumea,New Caledonia,255,233,488,2022,1
+22-Jan,Sydney,Phuket,Thailand,1989,1902,3891,2022,1
+22-Jan,Sydney,Port Moresby,Papua New Guinea,529,382,911,2022,1
+22-Jan,Sydney,Port Vila,Vanuatu,30,0,30,2022,1
+22-Jan,Sydney,San Francisco,USA,4077,3231,7308,2022,1
+22-Jan,Sydney,Seoul,Korea,2510,1482,3992,2022,1
+22-Jan,Sydney,Shanghai,China,426,456,882,2022,1
+22-Jan,Sydney,Shenzhen,China,0,0,0,2022,1
+22-Jan,Sydney,Singapore,Singapore,30668,19154,49822,2022,1
+22-Jan,Sydney,Taipei,Taiwan,237,159,396,2022,1
+22-Jan,Sydney,Tokyo,Japan,3650,1485,5135,2022,1
+22-Jan,Sydney,Vancouver,Canada,4906,4211,9117,2022,1
+22-Jan,Sydney,Xiamen,China,659,699,1358,2022,1
+22-Feb,Sydney,Abu Dhabi,United Arab Emirates,5445,3377,8822,2022,2
+22-Feb,Sydney,Anchorage,USA,0,0,0,2022,2
+22-Feb,Sydney,Auckland,New Zealand,3740,923,4663,2022,2
+22-Feb,Sydney,Bahrain,Bahrain,0,0,0,2022,2
+22-Feb,Sydney,Bangkok,Thailand,5476,2112,7588,2022,2
+22-Feb,Sydney,Chicago,USA,0,0,0,2022,2
+22-Feb,Sydney,Chongqing,China,0,0,0,2022,2
+22-Feb,Sydney,Christchurch,New Zealand,0,0,0,2022,2
+22-Feb,Sydney,Cincinnati,USA,0,0,0,2022,2
+22-Feb,Sydney,Colombo,Sri Lanka,3492,2920,6412,2022,2
+22-Feb,Sydney,Dallas,USA,1002,1228,2230,2022,2
+22-Feb,Sydney,Doha,Qatar,8832,6988,15820,2022,2
+22-Feb,Sydney,Dubai,United Arab Emirates,13149,10683,23832,2022,2
+22-Feb,Sydney,Guangzhou,China,1794,1010,2804,2022,2
+22-Feb,Sydney,Haikou,China,0,0,0,2022,2
+22-Feb,Sydney,Hanoi,Vietnam,472,317,789,2022,2
+22-Feb,Sydney,Ho Chi Minh City,Vietnam,1192,1256,2448,2022,2
+22-Feb,Sydney,Hong Kong,Hong Kong (SAR),1574,0,1574,2022,2
+22-Feb,Sydney,Honolulu,USA,2460,2414,4874,2022,2
+22-Feb,Sydney,Jakarta,Indonesia,1063,581,1644,2022,2
+22-Feb,Sydney,Johannesburg,South Africa,2453,1911,4364,2022,2
+22-Feb,Sydney,Kuala Lumpur,Malaysia,2597,1091,3688,2022,2
+22-Feb,Sydney,London,UK,4937,3814,8751,2022,2
+22-Feb,Sydney,Los Angeles,USA,11818,10317,22135,2022,2
+22-Feb,Sydney,Louisville,USA,0,0,0,2022,2
+22-Feb,Sydney,Manila,Philippines,600,823,1423,2022,2
+22-Feb,Sydney,Nadi,Fiji,7076,5958,13034,2022,2
+22-Feb,Sydney,Nagoya,Japan,0,0,0,2022,2
+22-Feb,Sydney,New Delhi,India,7063,4321,11384,2022,2
+22-Feb,Sydney,New York,USA,0,0,0,2022,2
+22-Feb,Sydney,Noumea,New Caledonia,363,208,571,2022,2
+22-Feb,Sydney,Osaka,Japan,0,0,0,2022,2
+22-Feb,Sydney,Phuket,Thailand,427,554,981,2022,2
+22-Feb,Sydney,Port Moresby,Papua New Guinea,345,250,595,2022,2
+22-Feb,Sydney,Port Vila,Vanuatu,79,0,79,2022,2
+22-Feb,Sydney,San Francisco,USA,2522,2097,4619,2022,2
+22-Feb,Sydney,Seoul,Korea,2744,1876,4620,2022,2
+22-Feb,Sydney,Shanghai,China,863,431,1294,2022,2
+22-Feb,Sydney,Shenzhen,China,0,0,0,2022,2
+22-Feb,Sydney,Singapore,Singapore,30911,15102,46013,2022,2
+22-Feb,Sydney,Taipei,Taiwan,358,179,537,2022,2
+22-Feb,Sydney,Tokyo,Japan,2689,1181,3870,2022,2
+22-Feb,Sydney,Vancouver,Canada,5484,4114,9598,2022,2
+22-Feb,Sydney,Xiamen,China,1012,726,1738,2022,2
+22-Feb,Sydney,Zhengzhou,China,0,0,0,2022,2
+22-Mar,Sydney,Abu Dhabi,United Arab Emirates,5869,5423,11292,2022,3
+22-Mar,Sydney,Anchorage,USA,0,0,0,2022,3
+22-Mar,Sydney,Auckland,New Zealand,10912,13926,24838,2022,3
+22-Mar,Sydney,Bahrain,Bahrain,0,0,0,2022,3
+22-Mar,Sydney,Bangkok,Thailand,5190,4294,9484,2022,3
+22-Mar,Sydney,Chicago,USA,0,0,0,2022,3
+22-Mar,Sydney,Chongqing,China,0,0,0,2022,3
+22-Mar,Sydney,Christchurch,New Zealand,1728,1986,3714,2022,3
+22-Mar,Sydney,Cincinnati,USA,0,0,0,2022,3
+22-Mar,Sydney,Colombo,Sri Lanka,5046,4353,9399,2022,3
+22-Mar,Sydney,Dallas,USA,3130,3636,6766,2022,3
+22-Mar,Sydney,Denpasar,Indonesia,0,343,343,2022,3
+22-Mar,Sydney,Doha,Qatar,9474,9131,18605,2022,3
+22-Mar,Sydney,Dubai,United Arab Emirates,25038,18168,43206,2022,3
+22-Mar,Sydney,Guangzhou,China,1445,230,1675,2022,3
+22-Mar,Sydney,Haikou,China,0,0,0,2022,3
+22-Mar,Sydney,Hanoi,Vietnam,512,317,829,2022,3
+22-Mar,Sydney,Ho Chi Minh City,Vietnam,1176,1224,2400,2022,3
+22-Mar,Sydney,Hong Kong,Hong Kong (SAR),1748,0,1748,2022,3
+22-Mar,Sydney,Honolulu,USA,5410,6336,11746,2022,3
+22-Mar,Sydney,Jakarta,Indonesia,960,559,1519,2022,3
+22-Mar,Sydney,Johannesburg,South Africa,3158,2741,5899,2022,3
+22-Mar,Sydney,Kota Kinabalu,Malaysia,0,0,0,2022,3
+22-Mar,Sydney,Kuala Lumpur,Malaysia,3490,1811,5301,2022,3
+22-Mar,Sydney,Kunming,China,0,434,434,2022,3
+22-Mar,Sydney,London,UK,5297,5093,10390,2022,3
+22-Mar,Sydney,Los Angeles,USA,16150,15576,31726,2022,3
+22-Mar,Sydney,Louisville,USA,0,0,0,2022,3
+22-Mar,Sydney,Manila,Philippines,1593,2054,3647,2022,3
+22-Mar,Sydney,Nadi,Fiji,11004,10969,21973,2022,3
+22-Mar,Sydney,Nagoya,Japan,0,0,0,2022,3
+22-Mar,Sydney,New Delhi,India,6688,6395,13083,2022,3
+22-Mar,Sydney,New York,USA,0,0,0,2022,3
+22-Mar,Sydney,Noumea,New Caledonia,1035,852,1887,2022,3
+22-Mar,Sydney,Phuket,Thailand,1054,1451,2505,2022,3
+22-Mar,Sydney,Port Moresby,Papua New Guinea,496,258,754,2022,3
+22-Mar,Sydney,Port Vila,Vanuatu,118,2,120,2022,3
+22-Mar,Sydney,San Francisco,USA,4264,4040,8304,2022,3
+22-Mar,Sydney,Santiago,Chile,366,62,428,2022,3
+22-Mar,Sydney,Seoul,Korea,2568,2522,5090,2022,3
+22-Mar,Sydney,Shanghai,China,726,690,1416,2022,3
+22-Mar,Sydney,Shenzhen,China,0,0,0,2022,3
+22-Mar,Sydney,Singapore,Singapore,30730,25059,55789,2022,3
+22-Mar,Sydney,Taipei,Taiwan,285,235,520,2022,3
+22-Mar,Sydney,Tokyo,Japan,2854,3500,6354,2022,3
+22-Mar,Sydney,Vancouver,Canada,6394,5607,12001,2022,3
+22-Mar,Sydney,Xiamen,China,1116,929,2045,2022,3
+22-Mar,Sydney,Zhengzhou,China,0,0,0,2022,3
+22-Apr,Sydney,Abu Dhabi,United Arab Emirates,7243,8593,15836,2022,4
+22-Apr,Sydney,Anchorage,USA,0,0,0,2022,4
+22-Apr,Sydney,Auckland,New Zealand,22224,22447,44671,2022,4
+22-Apr,Sydney,Bahrain,Bahrain,0,0,0,2022,4
+22-Apr,Sydney,Bangkok,Thailand,9430,8861,18291,2022,4
+22-Apr,Sydney,Chicago,USA,0,0,0,2022,4
+22-Apr,Sydney,Chongqing,China,0,0,0,2022,4
+22-Apr,Sydney,Christchurch,New Zealand,4764,4911,9675,2022,4
+22-Apr,Sydney,Cincinnati,USA,0,0,0,2022,4
+22-Apr,Sydney,Colombo,Sri Lanka,4327,4137,8464,2022,4
+22-Apr,Sydney,Dallas,USA,3802,4454,8256,2022,4
+22-Apr,Sydney,Denpasar,Indonesia,3512,6023,9535,2022,4
+22-Apr,Sydney,Doha,Qatar,8341,9320,17661,2022,4
+22-Apr,Sydney,Dubai,United Arab Emirates,24945,28012,52957,2022,4
+22-Apr,Sydney,Guangzhou,China,1033,710,1743,2022,4
+22-Apr,Sydney,Haikou,China,0,0,0,2022,4
+22-Apr,Sydney,Hanoi,Vietnam,794,829,1623,2022,4
+22-Apr,Sydney,Ho Chi Minh City,Vietnam,3408,4306,7714,2022,4
+22-Apr,Sydney,Hong Kong,Hong Kong (SAR),1372,1137,2509,2022,4
+22-Apr,Sydney,Honolulu,USA,10496,11980,22476,2022,4
+22-Apr,Sydney,Jakarta,Indonesia,2545,1375,3920,2022,4
+22-Apr,Sydney,Johannesburg,South Africa,3542,3397,6939,2022,4
+22-Apr,Sydney,Kota Kinabalu,Malaysia,0,0,0,2022,4
+22-Apr,Sydney,Kuala Lumpur,Malaysia,5843,5995,11838,2022,4
+22-Apr,Sydney,Kunming,China,0,751,751,2022,4
+22-Apr,Sydney,London,UK,8715,9100,17815,2022,4
+22-Apr,Sydney,Los Angeles,USA,19790,20906,40696,2022,4
+22-Apr,Sydney,Louisville,USA,0,0,0,2022,4
+22-Apr,Sydney,Manila,Philippines,6330,8273,14603,2022,4
+22-Apr,Sydney,Nadi,Fiji,20423,22490,42913,2022,4
+22-Apr,Sydney,Nagoya,Japan,0,0,0,2022,4
+22-Apr,Sydney,New Delhi,India,7014,5731,12745,2022,4
+22-Apr,Sydney,New York,USA,0,0,0,2022,4
+22-Apr,Sydney,Noumea,New Caledonia,2098,2424,4522,2022,4
+22-Apr,Sydney,Phuket,Thailand,3692,4239,7931,2022,4
+22-Apr,Sydney,Port Moresby,Papua New Guinea,552,272,824,2022,4
+22-Apr,Sydney,Port Vila,Vanuatu,106,48,154,2022,4
+22-Apr,Sydney,San Francisco,USA,4755,6183,10938,2022,4
+22-Apr,Sydney,Santiago,Chile,1971,1821,3792,2022,4
+22-Apr,Sydney,Seoul,Korea,3750,4111,7861,2022,4
+22-Apr,Sydney,Shanghai,China,280,0,280,2022,4
+22-Apr,Sydney,Shenzhen,China,0,0,0,2022,4
+22-Apr,Sydney,Singapore,Singapore,46403,50151,96554,2022,4
+22-Apr,Sydney,Taipei,Taiwan,237,181,418,2022,4
+22-Apr,Sydney,Tokyo,Japan,4877,4924,9801,2022,4
+22-Apr,Sydney,Vancouver,Canada,7762,8042,15804,2022,4
+22-Apr,Sydney,Wellington,New Zealand,2129,2274,4403,2022,4
+22-Apr,Sydney,Xiamen,China,929,690,1619,2022,4
+22-May,Sydney,Abu Dhabi,United Arab Emirates,7454,8948,16402,2022,5
+22-May,Sydney,Anchorage,USA,0,0,0,2022,5
+22-May,Sydney,Auckland,New Zealand,27326,26459,53785,2022,5
+22-May,Sydney,Bahrain,Bahrain,0,0,0,2022,5
+22-May,Sydney,Bangkok,Thailand,10883,9440,20323,2022,5
+22-May,Sydney,Chicago,USA,0,0,0,2022,5
+22-May,Sydney,Chongqing,China,0,0,0,2022,5
+22-May,Sydney,Christchurch,New Zealand,6721,7012,13733,2022,5
+22-May,Sydney,Cincinnati,USA,0,0,0,2022,5
+22-May,Sydney,Colombo,Sri Lanka,5422,2831,8253,2022,5
+22-May,Sydney,Dallas,USA,4600,4807,9407,2022,5
+22-May,Sydney,Denpasar,Indonesia,7407,9801,17208,2022,5
+22-May,Sydney,Doha,Qatar,8688,10110,18798,2022,5
+22-May,Sydney,Dubai,United Arab Emirates,24769,29114,53883,2022,5
+22-May,Sydney,Guangzhou,China,1141,710,1851,2022,5
+22-May,Sydney,Haikou,China,0,0,0,2022,5
+22-May,Sydney,Hanoi,Vietnam,688,822,1510,2022,5
+22-May,Sydney,Ho Chi Minh City,Vietnam,4813,4968,9781,2022,5
+22-May,Sydney,Hong Kong,Hong Kong (SAR),1162,1000,2162,2022,5
+22-May,Sydney,Honolulu,USA,10231,11107,21338,2022,5
+22-May,Sydney,Jakarta,Indonesia,3687,3874,7561,2022,5
+22-May,Sydney,Johannesburg,South Africa,3311,3117,6428,2022,5
+22-May,Sydney,Kuala Lumpur,Malaysia,5647,4119,9766,2022,5
+22-May,Sydney,Kunming,China,0,596,596,2022,5
+22-May,Sydney,London,UK,8238,9762,18000,2022,5
+22-May,Sydney,Los Angeles,USA,21976,21281,43257,2022,5
+22-May,Sydney,Louisville,USA,0,0,0,2022,5
+22-May,Sydney,Macau,Macau,0,0,0,2022,5
+22-May,Sydney,Manila,Philippines,7351,6400,13751,2022,5
+22-May,Sydney,Nadi,Fiji,20906,20232,41138,2022,5
+22-May,Sydney,Nagoya,Japan,0,0,0,2022,5
+22-May,Sydney,New Delhi,India,7350,3646,10996,2022,5
+22-May,Sydney,New York,USA,0,0,0,2022,5
+22-May,Sydney,Noumea,New Caledonia,1956,1930,3886,2022,5
+22-May,Sydney,Phuket,Thailand,2872,2740,5612,2022,5
+22-May,Sydney,Port Moresby,Papua New Guinea,395,236,631,2022,5
+22-May,Sydney,Port Vila,Vanuatu,243,305,548,2022,5
+22-May,Sydney,Queenstown,New Zealand,1368,1192,2560,2022,5
+22-May,Sydney,San Francisco,USA,5007,6760,11767,2022,5
+22-May,Sydney,Santiago,Chile,1670,1417,3087,2022,5
+22-May,Sydney,Seoul,Korea,5172,5781,10953,2022,5
+22-May,Sydney,Shanghai,China,383,0,383,2022,5
+22-May,Sydney,Shenzhen,China,0,0,0,2022,5
+22-May,Sydney,Singapore,Singapore,50429,48837,99266,2022,5
+22-May,Sydney,Taipei,Taiwan,301,177,478,2022,5
+22-May,Sydney,Tokyo,Japan,4518,5311,9829,2022,5
+22-May,Sydney,Vancouver,Canada,8300,10488,18788,2022,5
+22-May,Sydney,Wellington,New Zealand,3997,3597,7594,2022,5
+22-May,Sydney,Xiamen,China,1029,733,1762,2022,5
+22-Jun,Sydney,Abu Dhabi,United Arab Emirates,8425,10965,19390,2022,6
+22-Jun,Sydney,Anchorage,USA,0,0,0,2022,6
+22-Jun,Sydney,Auckland,New Zealand,29226,29846,59072,2022,6
+22-Jun,Sydney,Bahrain,Bahrain,0,0,0,2022,6
+22-Jun,Sydney,Bangkok,Thailand,10271,12800,23071,2022,6
+22-Jun,Sydney,Chengdu,China,0,0,0,2022,6
+22-Jun,Sydney,Chicago,USA,0,0,0,2022,6
+22-Jun,Sydney,Chongqing,China,0,0,0,2022,6
+22-Jun,Sydney,Christchurch,New Zealand,5812,6835,12647,2022,6
+22-Jun,Sydney,Cincinnati,USA,0,0,0,2022,6
+22-Jun,Sydney,Colombo,Sri Lanka,3045,3513,6558,2022,6
+22-Jun,Sydney,Dallas,USA,4994,5537,10531,2022,6
+22-Jun,Sydney,Denpasar,Indonesia,12991,16061,29052,2022,6
+22-Jun,Sydney,Doha,Qatar,13298,15321,28619,2022,6
+22-Jun,Sydney,Dubai,United Arab Emirates,24779,30081,54860,2022,6
+22-Jun,Sydney,Fuzhou,China,196,0,196,2022,6
+22-Jun,Sydney,Guangzhou,China,1531,870,2401,2022,6
+22-Jun,Sydney,Haikou,China,0,0,0,2022,6
+22-Jun,Sydney,Hanoi,Vietnam,887,1140,2027,2022,6
+22-Jun,Sydney,Ho Chi Minh City,Vietnam,6449,8744,15193,2022,6
+22-Jun,Sydney,Hong Kong,Hong Kong (SAR),3642,5375,9017,2022,6
+22-Jun,Sydney,Honolulu,USA,10040,13657,23697,2022,6
+22-Jun,Sydney,Jakarta,Indonesia,5106,5727,10833,2022,6
+22-Jun,Sydney,Johannesburg,South Africa,3012,3280,6292,2022,6
+22-Jun,Sydney,Kuala Lumpur,Malaysia,4680,6654,11334,2022,6
+22-Jun,Sydney,Kunming,China,0,723,723,2022,6
+22-Jun,Sydney,London,UK,8951,11695,20646,2022,6
+22-Jun,Sydney,Los Angeles,USA,22854,24848,47702,2022,6
+22-Jun,Sydney,Louisville,USA,0,0,0,2022,6
+22-Jun,Sydney,Manila,Philippines,7350,8148,15498,2022,6
+22-Jun,Sydney,Nadi,Fiji,20690,23634,44324,2022,6
+22-Jun,Sydney,Nagoya,Japan,0,0,0,2022,6
+22-Jun,Sydney,New Delhi,India,7073,6366,13439,2022,6
+22-Jun,Sydney,New York,USA,0,0,0,2022,6
+22-Jun,Sydney,Noumea,New Caledonia,2892,3430,6322,2022,6
+22-Jun,Sydney,Phuket,Thailand,3917,3918,7835,2022,6
+22-Jun,Sydney,Port Moresby,Papua New Guinea,188,295,483,2022,6
+22-Jun,Sydney,Port Vila,Vanuatu,233,334,567,2022,6
+22-Jun,Sydney,Queenstown,New Zealand,5416,7078,12494,2022,6
+22-Jun,Sydney,Rome,Italy,241,330,571,2022,6
+22-Jun,Sydney,San Francisco,USA,7884,9717,17601,2022,6
+22-Jun,Sydney,Santiago,Chile,1568,1390,2958,2022,6
+22-Jun,Sydney,Seoul,Korea,5651,6672,12323,2022,6
+22-Jun,Sydney,Shanghai,China,636,0,636,2022,6
+22-Jun,Sydney,Shenzhen,China,0,0,0,2022,6
+22-Jun,Sydney,Singapore,Singapore,50518,61535,112053,2022,6
+22-Jun,Sydney,Suva,Fiji,55,165,220,2022,6
+22-Jun,Sydney,Taipei,Taiwan,479,403,882,2022,6
+22-Jun,Sydney,Tokyo,Japan,5184,7067,12251,2022,6
+22-Jun,Sydney,Vancouver,Canada,10363,13904,24267,2022,6
+22-Jun,Sydney,Wellington,New Zealand,7542,7675,15217,2022,6
+22-Jun,Sydney,Xiamen,China,1199,887,2086,2022,6

@@ -1,0 +1,375 @@
+﻿Month,AustralianPort,ForeignPort,Country,Passengers_In,Passengers_Out,Passengers_Total,Year,Month_num
+19-Jan,Sydney,Abu Dhabi,United Arab Emirates,29307,21600,50907,2019,1
+19-Jan,Sydney,Anchorage,USA,0,0,0,2019,1
+19-Jan,Sydney,Apia,Western Samoa,2803,2056,4859,2019,1
+19-Jan,Sydney,Auckland,New Zealand,84314,76306,160620,2019,1
+19-Jan,Sydney,Bangkok,Thailand,25484,23044,48528,2019,1
+19-Jan,Sydney,Beijing,China,15737,13128,28865,2019,1
+19-Jan,Sydney,Changsha,China,1840,1663,3503,2019,1
+19-Jan,Sydney,Chengdu,China,3091,2461,5552,2019,1
+19-Jan,Sydney,Chicago,USA,0,0,0,2019,1
+19-Jan,Sydney,Chongqing,China,1893,1547,3440,2019,1
+19-Jan,Sydney,Christchurch,New Zealand,25827,25431,51258,2019,1
+19-Jan,Sydney,Dallas,USA,10348,11389,21737,2019,1
+19-Jan,Sydney,Denpasar,Indonesia,30779,25941,56720,2019,1
+19-Jan,Sydney,Doha,Qatar,24483,21280,45763,2019,1
+19-Jan,Sydney,Dubai,United Arab Emirates,41757,34040,75797,2019,1
+19-Jan,Sydney,Fuzhou,China,2785,2452,5237,2019,1
+19-Jan,Sydney,Guangzhou,China,28313,24535,52848,2019,1
+19-Jan,Sydney,Haikou,China,2345,1618,3963,2019,1
+19-Jan,Sydney,Hangzhou,China,1256,1028,2284,2019,1
+19-Jan,Sydney,Hanoi,Vietnam,2771,3062,5833,2019,1
+19-Jan,Sydney,Ho Chi Minh City,Vietnam,11690,11485,23175,2019,1
+19-Jan,Sydney,Hong Kong,Hong Kong (SAR),65206,49117,114323,2019,1
+19-Jan,Sydney,Honolulu,USA,22146,19257,41403,2019,1
+19-Jan,Sydney,Houston,USA,7186,6289,13475,2019,1
+19-Jan,Sydney,Jakarta,Indonesia,10185,8552,18737,2019,1
+19-Jan,Sydney,Johannesburg,South Africa,7786,7467,15253,2019,1
+19-Jan,Sydney,Kuala Lumpur,Malaysia,34924,29610,64534,2019,1
+19-Jan,Sydney,Kunming,China,2617,2171,4788,2019,1
+19-Jan,Sydney,London,UK,10801,10901,21702,2019,1
+19-Jan,Sydney,Los Angeles,USA,48126,41426,89552,2019,1
+19-Jan,Sydney,Louisville,USA,0,0,0,2019,1
+19-Jan,Sydney,Manila,Philippines,25879,21488,47367,2019,1
+19-Jan,Sydney,Medan,Indonesia,0,0,0,2019,1
+19-Jan,Sydney,Nadi,Fiji,25997,21507,47504,2019,1
+19-Jan,Sydney,Nanjing,China,1885,1491,3376,2019,1
+19-Jan,Sydney,New Delhi,India,5252,4600,9852,2019,1
+19-Jan,Sydney,New York,USA,2639,2504,5143,2019,1
+19-Jan,Sydney,Noumea,New Caledonia,5964,5072,11036,2019,1
+19-Jan,Sydney,Osaka,Japan,4198,3890,8088,2019,1
+19-Jan,Sydney,Phuket,Thailand,4038,3993,8031,2019,1
+19-Jan,Sydney,Port Moresby,Papua New Guinea,561,679,1240,2019,1
+19-Jan,Sydney,Port Vila,Vanuatu,4725,3552,8277,2019,1
+19-Jan,Sydney,Qingdao,China,2529,2249,4778,2019,1
+19-Jan,Sydney,Queenstown,New Zealand,17018,16140,33158,2019,1
+19-Jan,Sydney,Rarotonga,Cook Islands,1034,900,1934,2019,1
+19-Jan,Sydney,San Francisco,USA,16132,13798,29930,2019,1
+19-Jan,Sydney,Santiago,Chile,9683,9219,18902,2019,1
+19-Jan,Sydney,Sapporo,Japan,0,0,0,2019,1
+19-Jan,Sydney,Seoul,Korea,24227,24002,48229,2019,1
+19-Jan,Sydney,Shanghai,China,25367,22528,47895,2019,1
+19-Jan,Sydney,Shenzhen,China,3352,2693,6045,2019,1
+19-Jan,Sydney,Singapore,Singapore,73410,60319,133729,2019,1
+19-Jan,Sydney,Suva,Fiji,653,735,1388,2019,1
+19-Jan,Sydney,Taipei,Taiwan,14629,10596,25225,2019,1
+19-Jan,Sydney,Tianjin,China,492,358,850,2019,1
+19-Jan,Sydney,Tokyo,Japan,22353,21952,44305,2019,1
+19-Jan,Sydney,Tongatapu,Tonga,1385,1019,2404,2019,1
+19-Jan,Sydney,Toronto,Canada,1361,1124,2485,2019,1
+19-Jan,Sydney,Vancouver,Canada,10974,9642,20616,2019,1
+19-Jan,Sydney,Wellington,New Zealand,16558,15979,32537,2019,1
+19-Jan,Sydney,Wuhan,China,2097,1655,3752,2019,1
+19-Jan,Sydney,Xiamen,China,3185,3110,6295,2019,1
+19-Jan,Sydney,Xi'an,China,2712,2044,4756,2019,1
+19-Jan,Sydney,Zhengzhou,China,1400,1218,2618,2019,1
+19-Feb,Sydney,Abu Dhabi,United Arab Emirates,19959,14820,34779,2019,2
+19-Feb,Sydney,Anchorage,USA,0,0,0,2019,2
+19-Feb,Sydney,Apia,Western Samoa,1229,828,2057,2019,2
+19-Feb,Sydney,Auckland,New Zealand,64574,64783,129357,2019,2
+19-Feb,Sydney,Bangkok,Thailand,23440,18858,42298,2019,2
+19-Feb,Sydney,Beijing,China,14240,11990,26230,2019,2
+19-Feb,Sydney,Changsha,China,1715,1328,3043,2019,2
+19-Feb,Sydney,Chengdu,China,2953,2204,5157,2019,2
+19-Feb,Sydney,Chicago,USA,0,0,0,2019,2
+19-Feb,Sydney,Chongqing,China,1924,1506,3430,2019,2
+19-Feb,Sydney,Christchurch,New Zealand,20587,21337,41924,2019,2
+19-Feb,Sydney,Dallas,USA,7253,7272,14525,2019,2
+19-Feb,Sydney,Denpasar,Indonesia,21829,19362,41191,2019,2
+19-Feb,Sydney,Doha,Qatar,19583,16334,35917,2019,2
+19-Feb,Sydney,Dubai,United Arab Emirates,30196,22940,53136,2019,2
+19-Feb,Sydney,Fuzhou,China,2460,1935,4395,2019,2
+19-Feb,Sydney,Guangzhou,China,27910,24137,52047,2019,2
+19-Feb,Sydney,Haikou,China,1809,1582,3391,2019,2
+19-Feb,Sydney,Hangzhou,China,1413,1299,2712,2019,2
+19-Feb,Sydney,Hanoi,Vietnam,3073,2171,5244,2019,2
+19-Feb,Sydney,Ho Chi Minh City,Vietnam,10856,9349,20205,2019,2
+19-Feb,Sydney,Hong Kong,Hong Kong (SAR),57130,46911,104041,2019,2
+19-Feb,Sydney,Honolulu,USA,14470,12344,26814,2019,2
+19-Feb,Sydney,Houston,USA,4781,4507,9288,2019,2
+19-Feb,Sydney,Jakarta,Indonesia,7766,5689,13455,2019,2
+19-Feb,Sydney,Johannesburg,South Africa,5167,4820,9987,2019,2
+19-Feb,Sydney,Kuala Lumpur,Malaysia,29272,21550,50822,2019,2
+19-Feb,Sydney,Kunming,China,2430,1898,4328,2019,2
+19-Feb,Sydney,London,UK,8158,8695,16853,2019,2
+19-Feb,Sydney,Los Angeles,USA,37221,30902,68123,2019,2
+19-Feb,Sydney,Louisville,USA,0,0,0,2019,2
+19-Feb,Sydney,Manila,Philippines,18796,14638,33434,2019,2
+19-Feb,Sydney,Nadi,Fiji,13504,12306,25810,2019,2
+19-Feb,Sydney,Nanjing,China,1923,1279,3202,2019,2
+19-Feb,Sydney,New Delhi,India,4866,3656,8522,2019,2
+19-Feb,Sydney,New York,USA,2292,1736,4028,2019,2
+19-Feb,Sydney,Noumea,New Caledonia,3021,4591,7612,2019,2
+19-Feb,Sydney,Osaka,Japan,4030,3227,7257,2019,2
+19-Feb,Sydney,Phuket,Thailand,3786,3580,7366,2019,2
+19-Feb,Sydney,Port Moresby,Papua New Guinea,507,520,1027,2019,2
+19-Feb,Sydney,Port Vila,Vanuatu,2227,2094,4321,2019,2
+19-Feb,Sydney,Qingdao,China,2343,2164,4507,2019,2
+19-Feb,Sydney,Queenstown,New Zealand,12314,12173,24487,2019,2
+19-Feb,Sydney,Rarotonga,Cook Islands,702,715,1417,2019,2
+19-Feb,Sydney,San Francisco,USA,12614,11282,23896,2019,2
+19-Feb,Sydney,Santiago,Chile,7815,7628,15443,2019,2
+19-Feb,Sydney,Seoul,Korea,21255,20570,41825,2019,2
+19-Feb,Sydney,Shanghai,China,23305,20795,44100,2019,2
+19-Feb,Sydney,Shenzhen,China,3138,2390,5528,2019,2
+19-Feb,Sydney,Singapore,Singapore,63805,50930,114735,2019,2
+19-Feb,Sydney,Suva,Fiji,430,428,858,2019,2
+19-Feb,Sydney,Taipei,Taiwan,8729,6904,15633,2019,2
+19-Feb,Sydney,Tianjin,China,353,372,725,2019,2
+19-Feb,Sydney,Tokyo,Japan,21280,19023,40303,2019,2
+19-Feb,Sydney,Tongatapu,Tonga,874,594,1468,2019,2
+19-Feb,Sydney,Toronto,Canada,1490,1071,2561,2019,2
+19-Feb,Sydney,Vancouver,Canada,6438,5495,11933,2019,2
+19-Feb,Sydney,Wellington,New Zealand,13483,14429,27912,2019,2
+19-Feb,Sydney,Wuhan,China,2238,1510,3748,2019,2
+19-Feb,Sydney,Xiamen,China,3299,2705,6004,2019,2
+19-Feb,Sydney,Xi'an,China,2125,1771,3896,2019,2
+19-Feb,Sydney,Zhengzhou,China,1572,1033,2605,2019,2
+19-Mar,Sydney,Abu Dhabi,United Arab Emirates,12452,16890,29342,2019,3
+19-Mar,Sydney,Anchorage,USA,0,0,0,2019,3
+19-Mar,Sydney,Apia,Western Samoa,1387,1237,2624,2019,3
+19-Mar,Sydney,Auckland,New Zealand,73293,69905,143198,2019,3
+19-Mar,Sydney,Bahrain,Bahrain,0,0,0,2019,3
+19-Mar,Sydney,Bangkok,Thailand,20702,19414,40116,2019,3
+19-Mar,Sydney,Beijing,China,9774,11158,20932,2019,3
+19-Mar,Sydney,Changsha,China,1266,1014,2280,2019,3
+19-Mar,Sydney,Chengdu,China,2388,2255,4643,2019,3
+19-Mar,Sydney,Chicago,USA,0,0,0,2019,3
+19-Mar,Sydney,Chongqing,China,1671,1170,2841,2019,3
+19-Mar,Sydney,Christchurch,New Zealand,24175,23313,47488,2019,3
+19-Mar,Sydney,Dallas,USA,7830,9947,17777,2019,3
+19-Mar,Sydney,Denpasar,Indonesia,22248,23186,45434,2019,3
+19-Mar,Sydney,Doha,Qatar,13480,22983,36463,2019,3
+19-Mar,Sydney,Dubai,United Arab Emirates,25198,31019,56217,2019,3
+19-Mar,Sydney,Fuzhou,China,2480,1957,4437,2019,3
+19-Mar,Sydney,Guangzhou,China,15769,16017,31786,2019,3
+19-Mar,Sydney,Haikou,China,1517,1511,3028,2019,3
+19-Mar,Sydney,Hangzhou,China,1726,1138,2864,2019,3
+19-Mar,Sydney,Hanoi,Vietnam,2169,2323,4492,2019,3
+19-Mar,Sydney,Ho Chi Minh City,Vietnam,11234,9498,20732,2019,3
+19-Mar,Sydney,Hong Kong,Hong Kong (SAR),49200,50100,99300,2019,3
+19-Mar,Sydney,Honolulu,USA,13384,15046,28430,2019,3
+19-Mar,Sydney,Houston,USA,4568,6242,10810,2019,3
+19-Mar,Sydney,Jakarta,Indonesia,6956,6657,13613,2019,3
+19-Mar,Sydney,Johannesburg,South Africa,6574,5875,12449,2019,3
+19-Mar,Sydney,Kuala Lumpur,Malaysia,22791,19096,41887,2019,3
+19-Mar,Sydney,Kunming,China,2129,2203,4332,2019,3
+19-Mar,Sydney,London,UK,7516,10162,17678,2019,3
+19-Mar,Sydney,Los Angeles,USA,37966,40245,78211,2019,3
+19-Mar,Sydney,Louisville,USA,0,0,0,2019,3
+19-Mar,Sydney,Manila,Philippines,17541,15354,32895,2019,3
+19-Mar,Sydney,Nadi,Fiji,15456,15792,31248,2019,3
+19-Mar,Sydney,Nanjing,China,1889,1368,3257,2019,3
+19-Mar,Sydney,New Delhi,India,4299,4186,8485,2019,3
+19-Mar,Sydney,New York,USA,2265,2516,4781,2019,3
+19-Mar,Sydney,Ningbo,China,0,0,0,2019,3
+19-Mar,Sydney,Noumea,New Caledonia,3581,3762,7343,2019,3
+19-Mar,Sydney,Osaka,Japan,3771,3892,7663,2019,3
+19-Mar,Sydney,Phuket,Thailand,3716,3567,7283,2019,3
+19-Mar,Sydney,Port Moresby,Papua New Guinea,730,655,1385,2019,3
+19-Mar,Sydney,Port Vila,Vanuatu,2867,2683,5550,2019,3
+19-Mar,Sydney,Qingdao,China,2074,1768,3842,2019,3
+19-Mar,Sydney,Queenstown,New Zealand,14096,12503,26599,2019,3
+19-Mar,Sydney,Rarotonga,Cook Islands,845,1135,1980,2019,3
+19-Mar,Sydney,San Francisco,USA,13169,14749,27918,2019,3
+19-Mar,Sydney,Santiago,Chile,8954,8736,17690,2019,3
+19-Mar,Sydney,Seoul,Korea,20224,23880,44104,2019,3
+19-Mar,Sydney,Shanghai,China,19249,18214,37463,2019,3
+19-Mar,Sydney,Shenzhen,China,2277,1646,3923,2019,3
+19-Mar,Sydney,Singapore,Singapore,60262,56579,116841,2019,3
+19-Mar,Sydney,Suva,Fiji,172,203,375,2019,3
+19-Mar,Sydney,Taipei,Taiwan,5045,6264,11309,2019,3
+19-Mar,Sydney,Tianjin,China,215,189,404,2019,3
+19-Mar,Sydney,Tokyo,Japan,20593,21803,42396,2019,3
+19-Mar,Sydney,Tongatapu,Tonga,691,720,1411,2019,3
+19-Mar,Sydney,Toronto,Canada,1514,1397,2911,2019,3
+19-Mar,Sydney,Vancouver,Canada,6119,6702,12821,2019,3
+19-Mar,Sydney,Wellington,New Zealand,15660,15052,30712,2019,3
+19-Mar,Sydney,Wuhan,China,1751,1048,2799,2019,3
+19-Mar,Sydney,Xiamen,China,2601,2233,4834,2019,3
+19-Mar,Sydney,Xi'an,China,2105,1469,3574,2019,3
+19-Mar,Sydney,Zhengzhou,China,864,485,1349,2019,3
+19-Apr,Sydney,Abu Dhabi,United Arab Emirates,17382,22777,40159,2019,4
+19-Apr,Sydney,Anchorage,USA,0,0,0,2019,4
+19-Apr,Sydney,Apia,Western Samoa,1823,2065,3888,2019,4
+19-Apr,Sydney,Auckland,New Zealand,72293,69419,141712,2019,4
+19-Apr,Sydney,Bangkok,Thailand,22533,21639,44172,2019,4
+19-Apr,Sydney,Beijing,China,12434,13839,26273,2019,4
+19-Apr,Sydney,Changsha,China,1793,1901,3694,2019,4
+19-Apr,Sydney,Chengdu,China,2536,2800,5336,2019,4
+19-Apr,Sydney,Chicago,USA,0,0,0,2019,4
+19-Apr,Sydney,Chongqing,China,2049,2079,4128,2019,4
+19-Apr,Sydney,Christchurch,New Zealand,24027,23421,47448,2019,4
+19-Apr,Sydney,Dallas,USA,7109,10577,17686,2019,4
+19-Apr,Sydney,Denpasar,Indonesia,25378,27128,52506,2019,4
+19-Apr,Sydney,Doha,Qatar,17865,23867,41732,2019,4
+19-Apr,Sydney,Dubai,United Arab Emirates,23803,32382,56185,2019,4
+19-Apr,Sydney,Fuzhou,China,2592,2625,5217,2019,4
+19-Apr,Sydney,Guangzhou,China,15853,15874,31727,2019,4
+19-Apr,Sydney,Haikou,China,1656,2193,3849,2019,4
+19-Apr,Sydney,Hangzhou,China,1479,1594,3073,2019,4
+19-Apr,Sydney,Hanoi,Vietnam,2565,3008,5573,2019,4
+19-Apr,Sydney,Ho Chi Minh City,Vietnam,10316,10582,20898,2019,4
+19-Apr,Sydney,Hong Kong,Hong Kong (SAR),51919,54202,106121,2019,4
+19-Apr,Sydney,Honolulu,USA,18391,18964,37355,2019,4
+19-Apr,Sydney,Houston,USA,3327,4058,7385,2019,4
+19-Apr,Sydney,Jakarta,Indonesia,6814,7489,14303,2019,4
+19-Apr,Sydney,Johannesburg,South Africa,6736,6951,13687,2019,4
+19-Apr,Sydney,Kuala Lumpur,Malaysia,24283,24332,48615,2019,4
+19-Apr,Sydney,Kunming,China,1449,1626,3075,2019,4
+19-Apr,Sydney,Lanzhou,China,0,0,0,2019,4
+19-Apr,Sydney,London,UK,7342,11675,19017,2019,4
+19-Apr,Sydney,Los Angeles,USA,35261,38482,73743,2019,4
+19-Apr,Sydney,Louisville,USA,0,0,0,2019,4
+19-Apr,Sydney,Macau,Macau,0,0,0,2019,4
+19-Apr,Sydney,Manila,Philippines,20440,19294,39734,2019,4
+19-Apr,Sydney,Nadi,Fiji,21742,23343,45085,2019,4
+19-Apr,Sydney,Nanjing,China,1760,1788,3548,2019,4
+19-Apr,Sydney,New Delhi,India,4819,4670,9489,2019,4
+19-Apr,Sydney,New York,USA,2434,2500,4934,2019,4
+19-Apr,Sydney,Noumea,New Caledonia,4126,4070,8196,2019,4
+19-Apr,Sydney,Osaka,Japan,3748,3554,7302,2019,4
+19-Apr,Sydney,Phuket,Thailand,3742,3706,7448,2019,4
+19-Apr,Sydney,Port Moresby,Papua New Guinea,695,777,1472,2019,4
+19-Apr,Sydney,Port Vila,Vanuatu,3512,3388,6900,2019,4
+19-Apr,Sydney,Qingdao,China,1765,1663,3428,2019,4
+19-Apr,Sydney,Queenstown,New Zealand,14184,12586,26770,2019,4
+19-Apr,Sydney,Rarotonga,Cook Islands,894,1008,1902,2019,4
+19-Apr,Sydney,San Francisco,USA,13838,15939,29777,2019,4
+19-Apr,Sydney,Santiago,Chile,7913,7181,15094,2019,4
+19-Apr,Sydney,Seoul,Korea,14194,14555,28749,2019,4
+19-Apr,Sydney,Shanghai,China,16529,17012,33541,2019,4
+19-Apr,Sydney,Shenzhen,China,3112,2820,5932,2019,4
+19-Apr,Sydney,Singapore,Singapore,63305,62354,125659,2019,4
+19-Apr,Sydney,Suva,Fiji,166,236,402,2019,4
+19-Apr,Sydney,Taipei,Taiwan,8546,9696,18242,2019,4
+19-Apr,Sydney,Tokyo,Japan,18678,18832,37510,2019,4
+19-Apr,Sydney,Tongatapu,Tonga,1023,822,1845,2019,4
+19-Apr,Sydney,Toronto,Canada,1493,1259,2752,2019,4
+19-Apr,Sydney,Vancouver,Canada,4556,6788,11344,2019,4
+19-Apr,Sydney,Wellington,New Zealand,16250,15502,31752,2019,4
+19-Apr,Sydney,Wuhan,China,1799,1979,3778,2019,4
+19-Apr,Sydney,Xiamen,China,2680,2784,5464,2019,4
+19-Apr,Sydney,Xi'an,China,2342,2154,4496,2019,4
+19-May,Sydney,Abu Dhabi,United Arab Emirates,15293,24552,39845,2019,5
+19-May,Sydney,Almaty,Kazakhstan,0,0,0,2019,5
+19-May,Sydney,Anchorage,USA,0,0,0,2019,5
+19-May,Sydney,Apia,Western Samoa,1757,1714,3471,2019,5
+19-May,Sydney,Auckland,New Zealand,61310,56417,117727,2019,5
+19-May,Sydney,Bangkok,Thailand,20455,20042,40497,2019,5
+19-May,Sydney,Beijing,China,10534,14737,25271,2019,5
+19-May,Sydney,Changsha,China,1450,1604,3054,2019,5
+19-May,Sydney,Chengdu,China,2310,2837,5147,2019,5
+19-May,Sydney,Chicago,USA,0,0,0,2019,5
+19-May,Sydney,Chongqing,China,1630,1817,3447,2019,5
+19-May,Sydney,Christchurch,New Zealand,16788,16162,32950,2019,5
+19-May,Sydney,Dallas,USA,8501,9922,18423,2019,5
+19-May,Sydney,Denpasar,Indonesia,27427,27640,55067,2019,5
+19-May,Sydney,Doha,Qatar,16793,24939,41732,2019,5
+19-May,Sydney,Dubai,United Arab Emirates,23647,29777,53424,2019,5
+19-May,Sydney,Fuzhou,China,2029,2127,4156,2019,5
+19-May,Sydney,Guangzhou,China,14222,14407,28629,2019,5
+19-May,Sydney,Haikou,China,1238,1959,3197,2019,5
+19-May,Sydney,Hangzhou,China,1833,1353,3186,2019,5
+19-May,Sydney,Hanoi,Vietnam,1679,1815,3494,2019,5
+19-May,Sydney,Ho Chi Minh City,Vietnam,10521,9398,19919,2019,5
+19-May,Sydney,Hong Kong,Hong Kong (SAR),45350,48918,94268,2019,5
+19-May,Sydney,Honolulu,USA,22105,19627,41732,2019,5
+19-May,Sydney,Houston,USA,3263,3719,6982,2019,5
+19-May,Sydney,Jakarta,Indonesia,7221,5703,12924,2019,5
+19-May,Sydney,Johannesburg,South Africa,5804,6189,11993,2019,5
+19-May,Sydney,Kuala Lumpur,Malaysia,25081,20681,45762,2019,5
+19-May,Sydney,Kunming,China,1354,1806,3160,2019,5
+19-May,Sydney,London,UK,7539,11615,19154,2019,5
+19-May,Sydney,Los Angeles,USA,38593,35201,73794,2019,5
+19-May,Sydney,Louisville,USA,0,0,0,2019,5
+19-May,Sydney,Manila,Philippines,19545,16506,36051,2019,5
+19-May,Sydney,Nadi,Fiji,20448,19992,40440,2019,5
+19-May,Sydney,Nanjing,China,1924,1459,3383,2019,5
+19-May,Sydney,New Delhi,India,4891,3726,8617,2019,5
+19-May,Sydney,New York,USA,2612,2644,5256,2019,5
+19-May,Sydney,Noumea,New Caledonia,3921,3304,7225,2019,5
+19-May,Sydney,Osaka,Japan,4290,4428,8718,2019,5
+19-May,Sydney,Phuket,Thailand,3687,3959,7646,2019,5
+19-May,Sydney,Port Moresby,Papua New Guinea,569,554,1123,2019,5
+19-May,Sydney,Port Vila,Vanuatu,2912,2573,5485,2019,5
+19-May,Sydney,Qingdao,China,1553,1303,2856,2019,5
+19-May,Sydney,Queenstown,New Zealand,9532,8057,17589,2019,5
+19-May,Sydney,Rarotonga,Cook Islands,999,1229,2228,2019,5
+19-May,Sydney,San Francisco,USA,13751,14779,28530,2019,5
+19-May,Sydney,Santiago,Chile,6420,5990,12410,2019,5
+19-May,Sydney,Seoul,Korea,14524,14782,29306,2019,5
+19-May,Sydney,Shanghai,China,17960,17925,35885,2019,5
+19-May,Sydney,Shenzhen,China,2288,1879,4167,2019,5
+19-May,Sydney,Singapore,Singapore,60411,60491,120902,2019,5
+19-May,Sydney,Suva,Fiji,245,348,593,2019,5
+19-May,Sydney,Taipei,Taiwan,6484,7368,13852,2019,5
+19-May,Sydney,Tokyo,Japan,18970,20486,39456,2019,5
+19-May,Sydney,Tongatapu,Tonga,1020,1132,2152,2019,5
+19-May,Sydney,Toronto,Canada,1183,1067,2250,2019,5
+19-May,Sydney,Vancouver,Canada,4823,6761,11584,2019,5
+19-May,Sydney,Wellington,New Zealand,13850,13145,26995,2019,5
+19-May,Sydney,Wuhan,China,1623,1399,3022,2019,5
+19-May,Sydney,Xiamen,China,2325,2346,4671,2019,5
+19-May,Sydney,Xi'an,China,2616,2233,4849,2019,5
+19-Jun,Sydney,Abu Dhabi,United Arab Emirates,18891,27351,46242,2019,6
+19-Jun,Sydney,Almaty,Kazakhstan,0,0,0,2019,6
+19-Jun,Sydney,Anchorage,USA,0,0,0,2019,6
+19-Jun,Sydney,Apia,Western Samoa,1744,2106,3850,2019,6
+19-Jun,Sydney,Auckland,New Zealand,53281,55913,109194,2019,6
+19-Jun,Sydney,Bangkok,Thailand,16076,17530,33606,2019,6
+19-Jun,Sydney,Beijing,China,9176,14085,23261,2019,6
+19-Jun,Sydney,Changsha,China,1372,1667,3039,2019,6
+19-Jun,Sydney,Chengdu,China,2252,3094,5346,2019,6
+19-Jun,Sydney,Chicago,USA,0,0,0,2019,6
+19-Jun,Sydney,Chongqing,China,1227,1737,2964,2019,6
+19-Jun,Sydney,Christchurch,New Zealand,13156,15043,28199,2019,6
+19-Jun,Sydney,Dallas,USA,7816,10924,18740,2019,6
+19-Jun,Sydney,Denpasar,Indonesia,27309,29403,56712,2019,6
+19-Jun,Sydney,Doha,Qatar,18206,24380,42586,2019,6
+19-Jun,Sydney,Dubai,United Arab Emirates,29705,36838,66543,2019,6
+19-Jun,Sydney,Fuzhou,China,2163,2006,4169,2019,6
+19-Jun,Sydney,Guangzhou,China,12895,13564,26459,2019,6
+19-Jun,Sydney,Haikou,China,975,2062,3037,2019,6
+19-Jun,Sydney,Hangzhou,China,1581,1577,3158,2019,6
+19-Jun,Sydney,Hanoi,Vietnam,2046,2997,5043,2019,6
+19-Jun,Sydney,Ho Chi Minh City,Vietnam,9295,10975,20270,2019,6
+19-Jun,Sydney,Hong Kong,Hong Kong (SAR),42807,52004,94811,2019,6
+19-Jun,Sydney,Honolulu,USA,16228,19290,35518,2019,6
+19-Jun,Sydney,Houston,USA,3722,4045,7767,2019,6
+19-Jun,Sydney,Jakarta,Indonesia,8566,10190,18756,2019,6
+19-Jun,Sydney,Johannesburg,South Africa,6452,6489,12941,2019,6
+19-Jun,Sydney,Kuala Lumpur,Malaysia,19837,24224,44061,2019,6
+19-Jun,Sydney,Kunming,China,1222,1808,3030,2019,6
+19-Jun,Sydney,London,UK,8027,10762,18789,2019,6
+19-Jun,Sydney,Los Angeles,USA,37836,36754,74590,2019,6
+19-Jun,Sydney,Louisville,USA,0,0,0,2019,6
+19-Jun,Sydney,Manila,Philippines,16616,16959,33575,2019,6
+19-Jun,Sydney,Nadi,Fiji,19692,22308,42000,2019,6
+19-Jun,Sydney,Nanjing,China,1642,1719,3361,2019,6
+19-Jun,Sydney,New Delhi,India,5048,4961,10009,2019,6
+19-Jun,Sydney,New York,USA,2356,2331,4687,2019,6
+19-Jun,Sydney,Noumea,New Caledonia,3794,4489,8283,2019,6
+19-Jun,Sydney,Osaka,Japan,3283,3105,6388,2019,6
+19-Jun,Sydney,Phuket,Thailand,4144,4182,8326,2019,6
+19-Jun,Sydney,Port Moresby,Papua New Guinea,663,665,1328,2019,6
+19-Jun,Sydney,Port Vila,Vanuatu,3150,3433,6583,2019,6
+19-Jun,Sydney,Qingdao,China,1500,1650,3150,2019,6
+19-Jun,Sydney,Queenstown,New Zealand,9436,11723,21159,2019,6
+19-Jun,Sydney,Rarotonga,Cook Islands,813,1035,1848,2019,6
+19-Jun,Sydney,San Francisco,USA,15046,15650,30696,2019,6
+19-Jun,Sydney,Santiago,Chile,5855,6261,12116,2019,6
+19-Jun,Sydney,Seoul,Korea,15366,15624,30990,2019,6
+19-Jun,Sydney,Shanghai,China,16364,17311,33675,2019,6
+19-Jun,Sydney,Shenzhen,China,1535,1746,3281,2019,6
+19-Jun,Sydney,Singapore,Singapore,57561,65665,123226,2019,6
+19-Jun,Sydney,Suva,Fiji,373,494,867,2019,6
+19-Jun,Sydney,Taipei,Taiwan,8083,10215,18298,2019,6
+19-Jun,Sydney,Tokyo,Japan,17577,19604,37181,2019,6
+19-Jun,Sydney,Tongatapu,Tonga,740,1010,1750,2019,6
+19-Jun,Sydney,Toronto,Canada,1411,1319,2730,2019,6
+19-Jun,Sydney,Vancouver,Canada,5690,6366,12056,2019,6
+19-Jun,Sydney,Wellington,New Zealand,11922,12828,24750,2019,6
+19-Jun,Sydney,Wuhan,China,1487,1694,3181,2019,6
+19-Jun,Sydney,Xiamen,China,2646,2859,5505,2019,6
+19-Jun,Sydney,Xi'an,China,1390,1031,2421,2019,6

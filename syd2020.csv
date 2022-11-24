@@ -1,0 +1,282 @@
+﻿Month,AustralianPort,ForeignPort,Country,Passengers_In,Passengers_Out,Passengers_Total,Year,Month_num
+20-Jan,Sydney,Abu Dhabi,United Arab Emirates,24693,19546,44239,2020,1
+20-Jan,Sydney,Anchorage,USA,0,0,0,2020,1
+20-Jan,Sydney,Apia,Western Samoa,2662,1935,4597,2020,1
+20-Jan,Sydney,Auckland,New Zealand,79691,76048,155739,2020,1
+20-Jan,Sydney,Bangkok,Thailand,18547,17062,35609,2020,1
+20-Jan,Sydney,Beijing,China,15311,14167,29478,2020,1
+20-Jan,Sydney,Changsha,China,2049,1699,3748,2020,1
+20-Jan,Sydney,Chengdu,China,2786,2699,5485,2020,1
+20-Jan,Sydney,Chicago,USA,0,0,0,2020,1
+20-Jan,Sydney,Chongqing,China,2212,1790,4002,2020,1
+20-Jan,Sydney,Christchurch,New Zealand,24283,22930,47213,2020,1
+20-Jan,Sydney,Dallas,USA,8919,10563,19482,2020,1
+20-Jan,Sydney,Denpasar,Indonesia,33854,29606,63460,2020,1
+20-Jan,Sydney,Doha,Qatar,24273,22372,46645,2020,1
+20-Jan,Sydney,Dubai,United Arab Emirates,41032,33230,74262,2020,1
+20-Jan,Sydney,Fuzhou,China,2762,2784,5546,2020,1
+20-Jan,Sydney,Guangzhou,China,29491,27363,56854,2020,1
+20-Jan,Sydney,Haikou,China,2252,2146,4398,2020,1
+20-Jan,Sydney,Hangzhou,China,1750,1475,3225,2020,1
+20-Jan,Sydney,Hanoi,Vietnam,3034,3048,6082,2020,1
+20-Jan,Sydney,Ho Chi Minh City,Vietnam,12205,11515,23720,2020,1
+20-Jan,Sydney,Hong Kong,Hong Kong (SAR),64011,50423,114434,2020,1
+20-Jan,Sydney,Honolulu,USA,18845,16912,35757,2020,1
+20-Jan,Sydney,Houston,USA,6708,6078,12786,2020,1
+20-Jan,Sydney,Jakarta,Indonesia,10079,8631,18710,2020,1
+20-Jan,Sydney,Johannesburg,South Africa,7404,7296,14700,2020,1
+20-Jan,Sydney,Kuala Lumpur,Malaysia,36334,31173,67507,2020,1
+20-Jan,Sydney,Kunming,China,2486,2124,4610,2020,1
+20-Jan,Sydney,London,UK,10299,10706,21005,2020,1
+20-Jan,Sydney,Los Angeles,USA,48892,42452,91344,2020,1
+20-Jan,Sydney,Louisville,USA,0,0,0,2020,1
+20-Jan,Sydney,Manila,Philippines,23260,20315,43575,2020,1
+20-Jan,Sydney,Nadi,Fiji,28983,23856,52839,2020,1
+20-Jan,Sydney,Nanjing,China,1903,1720,3623,2020,1
+20-Jan,Sydney,New Delhi,India,5201,4930,10131,2020,1
+20-Jan,Sydney,New York,USA,1658,1329,2987,2020,1
+20-Jan,Sydney,Noumea,New Caledonia,6028,4840,10868,2020,1
+20-Jan,Sydney,Osaka,Japan,5226,4634,9860,2020,1
+20-Jan,Sydney,Phuket,Thailand,4124,3934,8058,2020,1
+20-Jan,Sydney,Port Moresby,Papua New Guinea,649,781,1430,2020,1
+20-Jan,Sydney,Port Vila,Vanuatu,4722,3483,8205,2020,1
+20-Jan,Sydney,Qingdao,China,2684,2655,5339,2020,1
+20-Jan,Sydney,Queenstown,New Zealand,19108,18451,37559,2020,1
+20-Jan,Sydney,Rarotonga,Cook Islands,1412,1215,2627,2020,1
+20-Jan,Sydney,San Francisco,USA,15119,13864,28983,2020,1
+20-Jan,Sydney,Santiago,Chile,11836,11220,23056,2020,1
+20-Jan,Sydney,Sapporo,Japan,2542,2299,4841,2020,1
+20-Jan,Sydney,Seoul,Korea,25397,20853,46250,2020,1
+20-Jan,Sydney,Shanghai,China,23061,19746,42807,2020,1
+20-Jan,Sydney,Shenzhen,China,3591,2720,6311,2020,1
+20-Jan,Sydney,Singapore,Singapore,79916,66372,146288,2020,1
+20-Jan,Sydney,Suva,Fiji,305,272,577,2020,1
+20-Jan,Sydney,Taipei,Taiwan,13831,10994,24825,2020,1
+20-Jan,Sydney,Tianjin,China,454,374,828,2020,1
+20-Jan,Sydney,Tokyo,Japan,22211,21126,43337,2020,1
+20-Jan,Sydney,Tongatapu,Tonga,1339,1246,2585,2020,1
+20-Jan,Sydney,Vancouver,Canada,12439,11471,23910,2020,1
+20-Jan,Sydney,Wellington,New Zealand,16061,16876,32937,2020,1
+20-Jan,Sydney,Wuhan,China,1312,1339,2651,2020,1
+20-Jan,Sydney,Xiamen,China,3804,3223,7027,2020,1
+20-Jan,Sydney,Xi'an,China,485,530,1015,2020,1
+20-Jan,Sydney,Zhengzhou,China,1706,1359,3065,2020,1
+20-Feb,Sydney,Abu Dhabi,United Arab Emirates,21677,15303,36980,2020,2
+20-Feb,Sydney,Anchorage,USA,0,0,0,2020,2
+20-Feb,Sydney,Apia,Western Samoa,1069,1007,2076,2020,2
+20-Feb,Sydney,Auckland,New Zealand,60910,61995,122905,2020,2
+20-Feb,Sydney,Bangkok,Thailand,16417,13602,30019,2020,2
+20-Feb,Sydney,Beijing,China,1729,1985,3714,2020,2
+20-Feb,Sydney,Chengdu,China,255,118,373,2020,2
+20-Feb,Sydney,Chicago,USA,0,0,0,2020,2
+20-Feb,Sydney,Chongqing,China,221,301,522,2020,2
+20-Feb,Sydney,Christchurch,New Zealand,16935,17469,34404,2020,2
+20-Feb,Sydney,Dallas,USA,7741,8474,16215,2020,2
+20-Feb,Sydney,Denpasar,Indonesia,25150,22191,47341,2020,2
+20-Feb,Sydney,Doha,Qatar,21942,19895,41837,2020,2
+20-Feb,Sydney,Dubai,United Arab Emirates,30771,22545,53316,2020,2
+20-Feb,Sydney,Guangzhou,China,4627,3660,8287,2020,2
+20-Feb,Sydney,Hangzhou,China,97,129,226,2020,2
+20-Feb,Sydney,Hanoi,Vietnam,2938,1968,4906,2020,2
+20-Feb,Sydney,Ho Chi Minh City,Vietnam,10792,6203,16995,2020,2
+20-Feb,Sydney,Hong Kong,Hong Kong (SAR),33782,23976,57758,2020,2
+20-Feb,Sydney,Honolulu,USA,12708,10911,23619,2020,2
+20-Feb,Sydney,Houston,USA,4851,4946,9797,2020,2
+20-Feb,Sydney,Jakarta,Indonesia,8832,5453,14285,2020,2
+20-Feb,Sydney,Johannesburg,South Africa,5905,5671,11576,2020,2
+20-Feb,Sydney,Kuala Lumpur,Malaysia,25365,17339,42704,2020,2
+20-Feb,Sydney,Kunming,China,137,163,300,2020,2
+20-Feb,Sydney,London,UK,8329,8453,16782,2020,2
+20-Feb,Sydney,Los Angeles,USA,36855,31914,68769,2020,2
+20-Feb,Sydney,Louisville,USA,0,0,0,2020,2
+20-Feb,Sydney,Luzon Island,Philippines,0,0,0,2020,2
+20-Feb,Sydney,Manila,Philippines,20273,14849,35122,2020,2
+20-Feb,Sydney,Nadi,Fiji,14729,13373,28102,2020,2
+20-Feb,Sydney,Nanjing,China,177,100,277,2020,2
+20-Feb,Sydney,New Delhi,India,5021,4500,9521,2020,2
+20-Feb,Sydney,New York,USA,1326,1044,2370,2020,2
+20-Feb,Sydney,Noumea,New Caledonia,2825,4192,7017,2020,2
+20-Feb,Sydney,Osaka,Japan,4423,3259,7682,2020,2
+20-Feb,Sydney,Phuket,Thailand,4012,3568,7580,2020,2
+20-Feb,Sydney,Port Moresby,Papua New Guinea,520,608,1128,2020,2
+20-Feb,Sydney,Port Vila,Vanuatu,2154,2014,4168,2020,2
+20-Feb,Sydney,Qingdao,China,515,461,976,2020,2
+20-Feb,Sydney,Queenstown,New Zealand,14056,14110,28166,2020,2
+20-Feb,Sydney,Rarotonga,Cook Islands,754,869,1623,2020,2
+20-Feb,Sydney,San Francisco,USA,10656,10935,21591,2020,2
+20-Feb,Sydney,Santiago,Chile,9601,9459,19060,2020,2
+20-Feb,Sydney,Sapporo,Japan,2682,2270,4952,2020,2
+20-Feb,Sydney,Seoul,Korea,17299,14078,31377,2020,2
+20-Feb,Sydney,Shanghai,China,6710,7331,14041,2020,2
+20-Feb,Sydney,Shenzhen,China,187,114,301,2020,2
+20-Feb,Sydney,Singapore,Singapore,65707,45614,111321,2020,2
+20-Feb,Sydney,Suva,Fiji,286,288,574,2020,2
+20-Feb,Sydney,Taipei,Taiwan,7659,6977,14636,2020,2
+20-Feb,Sydney,Tianjin,China,0,34,34,2020,2
+20-Feb,Sydney,Tokyo,Japan,20194,18528,38722,2020,2
+20-Feb,Sydney,Tongatapu,Tonga,836,817,1653,2020,2
+20-Feb,Sydney,Vancouver,Canada,7804,6667,14471,2020,2
+20-Feb,Sydney,Wellington,New Zealand,13036,14212,27248,2020,2
+20-Feb,Sydney,Xiamen,China,1620,827,2447,2020,2
+20-Feb,Sydney,Zhengzhou,China,0,127,127,2020,2
+20-Mar,Sydney,Abu Dhabi,United Arab Emirates,11099,13513,24612,2020,3
+20-Mar,Sydney,Anchorage,USA,0,0,0,2020,3
+20-Mar,Sydney,Apia,Western Samoa,797,599,1396,2020,3
+20-Mar,Sydney,Auckland,New Zealand,39705,35268,74973,2020,3
+20-Mar,Sydney,Bangkok,Thailand,13299,8724,22023,2020,3
+20-Mar,Sydney,Beijing,China,272,1296,1568,2020,3
+20-Mar,Sydney,Chicago,USA,0,0,0,2020,3
+20-Mar,Sydney,Chongqing,China,0,0,0,2020,3
+20-Mar,Sydney,Christchurch,New Zealand,11520,9503,21023,2020,3
+20-Mar,Sydney,Cincinnati,USA,0,0,0,2020,3
+20-Mar,Sydney,Dallas,USA,5302,6957,12259,2020,3
+20-Mar,Sydney,Denpasar,Indonesia,18691,13359,32050,2020,3
+20-Mar,Sydney,Doha,Qatar,14830,22611,37441,2020,3
+20-Mar,Sydney,Dubai,United Arab Emirates,21547,20573,42120,2020,3
+20-Mar,Sydney,Guangzhou,China,1003,6374,7377,2020,3
+20-Mar,Sydney,Hanoi,Vietnam,981,883,1864,2020,3
+20-Mar,Sydney,Ho Chi Minh City,Vietnam,7180,4694,11874,2020,3
+20-Mar,Sydney,Hong Kong,Hong Kong (SAR),8344,13357,21701,2020,3
+20-Mar,Sydney,Honolulu,USA,8471,8327,16798,2020,3
+20-Mar,Sydney,Houston,USA,2425,3891,6316,2020,3
+20-Mar,Sydney,Jakarta,Indonesia,5295,4319,9614,2020,3
+20-Mar,Sydney,Johannesburg,South Africa,6123,4653,10776,2020,3
+20-Mar,Sydney,Kuala Lumpur,Malaysia,13999,9248,23247,2020,3
+20-Mar,Sydney,London,UK,7205,9440,16645,2020,3
+20-Mar,Sydney,Los Angeles,USA,20853,24496,45349,2020,3
+20-Mar,Sydney,Louisville,USA,0,0,0,2020,3
+20-Mar,Sydney,Manila,Philippines,10884,6776,17660,2020,3
+20-Mar,Sydney,Nadi,Fiji,11491,9276,20767,2020,3
+20-Mar,Sydney,New Delhi,India,3553,3246,6799,2020,3
+20-Mar,Sydney,New York,USA,608,491,1099,2020,3
+20-Mar,Sydney,Noumea,New Caledonia,2102,2383,4485,2020,3
+20-Mar,Sydney,Osaka,Japan,1281,1434,2715,2020,3
+20-Mar,Sydney,Phuket,Thailand,2828,1544,4372,2020,3
+20-Mar,Sydney,Port Moresby,Papua New Guinea,343,278,621,2020,3
+20-Mar,Sydney,Port Vila,Vanuatu,1323,1081,2404,2020,3
+20-Mar,Sydney,Queenstown,New Zealand,10693,7715,18408,2020,3
+20-Mar,Sydney,Rarotonga,Cook Islands,642,514,1156,2020,3
+20-Mar,Sydney,San Francisco,USA,6921,10593,17514,2020,3
+20-Mar,Sydney,Santiago,Chile,7356,6948,14304,2020,3
+20-Mar,Sydney,Sapporo,Japan,1025,630,1655,2020,3
+20-Mar,Sydney,Seoul,Korea,1611,3379,4990,2020,3
+20-Mar,Sydney,Shanghai,China,709,6163,6872,2020,3
+20-Mar,Sydney,Shenzhen,China,0,0,0,2020,3
+20-Mar,Sydney,Singapore,Singapore,33188,25445,58633,2020,3
+20-Mar,Sydney,Suva,Fiji,140,223,363,2020,3
+20-Mar,Sydney,Taipei,Taiwan,1739,4222,5961,2020,3
+20-Mar,Sydney,Tokyo,Japan,8593,12287,20880,2020,3
+20-Mar,Sydney,Tongatapu,Tonga,454,549,1003,2020,3
+20-Mar,Sydney,Vancouver,Canada,5761,7501,13262,2020,3
+20-Mar,Sydney,Wellington,New Zealand,8658,7532,16190,2020,3
+20-Mar,Sydney,Xiamen,China,258,2164,2422,2020,3
+20-Apr,Sydney,Anchorage,USA,0,0,0,2020,4
+20-Apr,Sydney,Auckland,New Zealand,722,819,1541,2020,4
+20-Apr,Sydney,Bangkok,Thailand,184,207,391,2020,4
+20-Apr,Sydney,Beijing,China,0,0,0,2020,4
+20-Apr,Sydney,Buenos Aires,Argentina,0,288,288,2020,4
+20-Apr,Sydney,Chengdu,China,0,0,0,2020,4
+20-Apr,Sydney,Chicago,USA,0,0,0,2020,4
+20-Apr,Sydney,Chongqing,China,0,0,0,2020,4
+20-Apr,Sydney,Christchurch,New Zealand,0,0,0,2020,4
+20-Apr,Sydney,Cincinnati,USA,0,0,0,2020,4
+20-Apr,Sydney,Dallas,USA,0,0,0,2020,4
+20-Apr,Sydney,Doha,Qatar,2442,11448,13890,2020,4
+20-Apr,Sydney,Dubai,United Arab Emirates,0,0,0,2020,4
+20-Apr,Sydney,Guangzhou,China,185,1794,1979,2020,4
+20-Apr,Sydney,Hanoi,Vietnam,71,0,71,2020,4
+20-Apr,Sydney,Ho Chi Minh City,Vietnam,0,0,0,2020,4
+20-Apr,Sydney,Hong Kong,Hong Kong (SAR),202,981,1183,2020,4
+20-Apr,Sydney,Honolulu,USA,0,0,0,2020,4
+20-Apr,Sydney,Jakarta,Indonesia,399,804,1203,2020,4
+20-Apr,Sydney,Kuala Lumpur,Malaysia,168,354,522,2020,4
+20-Apr,Sydney,Lima,Peru,0,85,85,2020,4
+20-Apr,Sydney,London,UK,198,1838,2036,2020,4
+20-Apr,Sydney,Los Angeles,USA,0,0,0,2020,4
+20-Apr,Sydney,Louisville,USA,0,0,0,2020,4
+20-Apr,Sydney,Manila,Philippines,658,524,1182,2020,4
+20-Apr,Sydney,Nadi,Fiji,83,105,188,2020,4
+20-Apr,Sydney,New York,USA,0,0,0,2020,4
+20-Apr,Sydney,Noumea,New Caledonia,8,310,318,2020,4
+20-Apr,Sydney,San Francisco,USA,882,2241,3123,2020,4
+20-Apr,Sydney,Santiago,Chile,361,992,1353,2020,4
+20-Apr,Sydney,Seoul,Korea,0,4020,4020,2020,4
+20-Apr,Sydney,Shanghai,China,157,1149,1306,2020,4
+20-Apr,Sydney,Shenzhen,China,0,0,0,2020,4
+20-Apr,Sydney,Singapore,Singapore,405,411,816,2020,4
+20-Apr,Sydney,Taipei,Taiwan,51,636,687,2020,4
+20-Apr,Sydney,Tokyo,Japan,335,2669,3004,2020,4
+20-Apr,Sydney,Vancouver,Canada,140,1282,1422,2020,4
+20-Apr,Sydney,Xiamen,China,100,662,762,2020,4
+20-May,Sydney,Abu Dhabi,United Arab Emirates,10,18,28,2020,5
+20-May,Sydney,Anchorage,USA,0,0,0,2020,5
+20-May,Sydney,Auckland,New Zealand,1457,1492,2949,2020,5
+20-May,Sydney,Bangkok,Thailand,93,293,386,2020,5
+20-May,Sydney,Chengdu,China,0,0,0,2020,5
+20-May,Sydney,Chicago,USA,0,0,0,2020,5
+20-May,Sydney,Chongqing,China,0,0,0,2020,5
+20-May,Sydney,Christchurch,New Zealand,0,0,0,2020,5
+20-May,Sydney,Cincinnati,USA,0,0,0,2020,5
+20-May,Sydney,Dallas,USA,0,0,0,2020,5
+20-May,Sydney,Doha,Qatar,2920,6026,8946,2020,5
+20-May,Sydney,Dubai,United Arab Emirates,61,104,165,2020,5
+20-May,Sydney,Guangzhou,China,426,2168,2594,2020,5
+20-May,Sydney,Ho Chi Minh City,Vietnam,122,19,141,2020,5
+20-May,Sydney,Hong Kong,Hong Kong (SAR),260,1680,1940,2020,5
+20-May,Sydney,Honolulu,USA,0,0,0,2020,5
+20-May,Sydney,Jakarta,Indonesia,88,235,323,2020,5
+20-May,Sydney,Kuala Lumpur,Malaysia,26,75,101,2020,5
+20-May,Sydney,Los Angeles,USA,0,0,0,2020,5
+20-May,Sydney,Louisville,USA,0,0,0,2020,5
+20-May,Sydney,Manila,Philippines,357,96,453,2020,5
+20-May,Sydney,Nadi,Fiji,128,167,295,2020,5
+20-May,Sydney,New Delhi,India,464,653,1117,2020,5
+20-May,Sydney,New York,USA,0,0,0,2020,5
+20-May,Sydney,Noumea,New Caledonia,12,95,107,2020,5
+20-May,Sydney,Port Moresby,Papua New Guinea,0,80,80,2020,5
+20-May,Sydney,San Francisco,USA,946,1541,2487,2020,5
+20-May,Sydney,Santiago,Chile,85,0,85,2020,5
+20-May,Sydney,Seoul,Korea,942,1755,2697,2020,5
+20-May,Sydney,Shanghai,China,202,965,1167,2020,5
+20-May,Sydney,Shenzhen,China,0,0,0,2020,5
+20-May,Sydney,Singapore,Singapore,782,246,1028,2020,5
+20-May,Sydney,Taipei,Taiwan,29,542,571,2020,5
+20-May,Sydney,Tokyo,Japan,289,984,1273,2020,5
+20-May,Sydney,Vancouver,Canada,0,0,0,2020,5
+20-May,Sydney,Xiamen,China,420,984,1404,2020,5
+20-Jun,Sydney,Abu Dhabi,United Arab Emirates,159,295,454,2020,6
+20-Jun,Sydney,Anchorage,USA,0,0,0,2020,6
+20-Jun,Sydney,Auckland,New Zealand,1939,1656,3595,2020,6
+20-Jun,Sydney,Bangkok,Thailand,0,328,328,2020,6
+20-Jun,Sydney,Chengdu,China,0,0,0,2020,6
+20-Jun,Sydney,Chicago,USA,0,0,0,2020,6
+20-Jun,Sydney,Chongqing,China,0,0,0,2020,6
+20-Jun,Sydney,Christchurch,New Zealand,0,0,0,2020,6
+20-Jun,Sydney,Cincinnati,USA,0,0,0,2020,6
+20-Jun,Sydney,Dallas,USA,0,0,0,2020,6
+20-Jun,Sydney,Doha,Qatar,2695,4794,7489,2020,6
+20-Jun,Sydney,Dubai,United Arab Emirates,710,953,1663,2020,6
+20-Jun,Sydney,Guangzhou,China,770,1965,2735,2020,6
+20-Jun,Sydney,Ho Chi Minh City,Vietnam,51,339,390,2020,6
+20-Jun,Sydney,Hong Kong,Hong Kong (SAR),992,1443,2435,2020,6
+20-Jun,Sydney,Honolulu,USA,0,0,0,2020,6
+20-Jun,Sydney,Jakarta,Indonesia,143,276,419,2020,6
+20-Jun,Sydney,Kuala Lumpur,Malaysia,0,73,73,2020,6
+20-Jun,Sydney,Los Angeles,USA,0,0,0,2020,6
+20-Jun,Sydney,Louisville,USA,0,0,0,2020,6
+20-Jun,Sydney,Manila,Philippines,395,384,779,2020,6
+20-Jun,Sydney,Nadi,Fiji,8,0,8,2020,6
+20-Jun,Sydney,New Delhi,India,580,909,1489,2020,6
+20-Jun,Sydney,New York,USA,0,0,0,2020,6
+20-Jun,Sydney,Noumea,New Caledonia,27,56,83,2020,6
+20-Jun,Sydney,Port Moresby,Papua New Guinea,2,0,2,2020,6
+20-Jun,Sydney,San Francisco,USA,1314,2415,3729,2020,6
+20-Jun,Sydney,Santiago,Chile,0,160,160,2020,6
+20-Jun,Sydney,Seoul,Korea,1055,1608,2663,2020,6
+20-Jun,Sydney,Shanghai,China,409,1272,1681,2020,6
+20-Jun,Sydney,Shenzhen,China,0,0,0,2020,6
+20-Jun,Sydney,Singapore,Singapore,405,539,944,2020,6
+20-Jun,Sydney,Taipei,Taiwan,79,318,397,2020,6
+20-Jun,Sydney,Tokyo,Japan,206,1141,1347,2020,6
+20-Jun,Sydney,Vancouver,Canada,0,0,0,2020,6
+20-Jun,Sydney,Xiamen,China,598,1010,1608,2020,6
